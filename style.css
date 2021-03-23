@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(231, 166, 177, 0.726);
+}
+.glowa{
+    background-color: aqua;
+    width: auto;
+    height: 100px;
+    text-align: center;
+    padding-top: 10px;
+}
+h2{
+    color: red;
+    padding-left: 4%;
+}
+p{
+    padding-left: 3%;
+    padding-right: 5%;
+    font-size: 19px;
+}
+ul>li{
+    padding-top: 1%;
+    padding-right: 5%;
+    font-size: 19px;
+}
+.footer{
+background-color:aqua ;
+width: auto;
+height: 18px;
+font-size: 15px;
+text-align: right;
+}
